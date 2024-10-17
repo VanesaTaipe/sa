@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "module": "es6",
+    "moduleResolution": "node",
+    "target": "es6",
+    "noImplicitAny": true,
+    "outDir": "./",
+    "rootDir": "./",
+    "strict": true,
+    "allowJs": true,
+    "checkJs": true,
+  },
+  "include": ["./**/*.ts"],
+  "exclude": ["node_modules", "dist"]
+}
